@@ -1,24 +1,32 @@
-# zimera-systems
+# Zimera Systems
 
-## Project setup
-```
-npm install
-```
+This repo is used to store Zimera Systems website at [GitHub Pages](https://zimera-systems.github.io). 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Requirements
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1.  Node.js
+2.  Vue and Vue Cli.
 
-### Lints and fixes files
-```
-npm run lint
+## Run
+
+Clone the repo and then:
+
+1.  If you want to run the website locally:
+
+```bash
+$ npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2.  If you want to create static website, ready to be deployed:
+
+```bash
+$ npm run build
+```
+
+The results will be in [docs/](docs/) directory.
+
+## License
+
+[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
+
