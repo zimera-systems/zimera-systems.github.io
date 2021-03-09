@@ -17,6 +17,11 @@
   color: #2c3e50;
 }
 
+.router-link-active {
+  text-decoration: bold;
+  color: #008080;
+}
+
 #nav {
   padding: 30px;
 }
