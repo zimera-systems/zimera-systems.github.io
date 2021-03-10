@@ -3,7 +3,7 @@
     <p class="header">{{ dt.Type }}</p>
     <table class="center">
       <tr v-for="(res, id) in dt.List" :key="id">
-        <td>{{ res.Title }}</td><td>:</td><td>{{ res.URL }}</td>
+        <td>{{ res.Title }}</td><td>:</td><td><a :href="res.URL">{{ res.URL }}</a></td>
       </tr>
     </table>
   </div>

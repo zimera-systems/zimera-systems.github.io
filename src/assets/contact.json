@@ -1,0 +1,44 @@
+{
+  "Resource 1":{
+    "Type":"Videos",
+    "List":[
+      {
+        "Title":"Video 1",
+        "URL":"https://youtube.com"
+      },
+      {
+        "Title":"Video 2",
+        "URL":"https://youtube.com"
+      },
+      {
+        "Title":"Video 3",
+        "URL":"https://youtube.com"
+      },
+      {
+        "Title":"Video 4",
+        "URL":"https://youtube.com"
+      }
+    ]
+  },
+  "Resources 2":{
+    "Type":"Books",
+    "List":[
+      {
+        "Title":"Book 1",
+        "URL":"https://github.com"
+      },
+      {
+        "Title":"Book 2",
+        "URL":"https://github.com"
+      },
+      {
+        "Title":"Book 3",
+        "URL":"https://youtube.com"
+      },
+      {
+        "Title":"Book 4",
+        "URL":"https://github.com"
+      }
+    ]
+  }
+}
